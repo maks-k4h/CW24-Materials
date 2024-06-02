@@ -1,0 +1,70 @@
+## GTE-large-en-v1.5
+
+### Test 0
+
+Raw text
+
+### Test 1
+Gemma 2b IT
+Prompt: "Summarize the lyrics of the following song:\n\n"
+
+#### Easily
+
+This song is about a woman's determination and resilience in the face of war. It expresses her longing for freedom and escape, and her refusal to be controlled or silenced.
+
+#### Feeling For You
+
+The song is about a person who is searching for love and meaning in their life. They have been on a long journey, both physically and emotionally, but they have yet to find the answers they are looking for. The song expresses the person's longing for love and their hope that they will eventually find it.
+
+#### On Mercury
+
+This song is about a woman who is struggling with a masochistic hold she has on herself. She is trying to break free from this cycle, but it is not easy. She keeps coming back to this place, seeking solace and comfort in the pain she is feeling.
+
+#### Sadnecessary
+
+The song is about a person who is heartbroken and feeling lost. They are questioning whether it is the lover or the beloved who is happier. The song also explores the pain of heartbreak and the difficulty of moving on.
+
+### Summer Wine
+
+The lyrics describe a person who is feeling nostalgic and longing for the past. They are reminiscing about a summer spent with a loved one, filled with strawberries, cherries, and an angel's kiss. The song expresses the bittersweet feeling of bittersweet longing, where the person cherishes the past but longs for a return to simpler times.
+
+### Universal Speaking
+
+This song is about a person who is deeply in love with another person. The lyrics express the depth of their love and the sacrifices they are willing to make for each other. The song is a celebration of love and the beauty of connection.
+
+### Let it snow
+
+The song is about a romantic moment between two people, despite the frightful weather outside. They find solace and warmth in each other's company, and the fire serves as a symbol of that comfort.
+
+
+### Test 2
+Llama-2-7B
+Prompt: "Summarize the lyrics of the following song:\n\n"
+
+#### Easily
+
+The song is about a woman who is on the morning of a war, and the lyrics are a mix of surreal and abstract imagery, as well as references to the idea of fighting and the search for something in the air. The song also touches on the themes of ownership and the search for meaning in life.
+
+#### Feeling For You
+
+The song is about the emotions and feelings of being in love and trying to understand what it means. The lyrics mention the colors of the sunrise, the moonlight, and the blue mind, which could represent the emotional state of the person singing. The song also talks about the feeling of being in deep and starting to believe in the love. The repetition of "I don't know" and "What it means" emphasizes the confusion and uncertainty of the emotions.
+
+#### On Mercury
+
+The song appears to be about memories of past experiences and relationships, with references to the moon, Mercury, and the seas. The lyrics also mention a masochistic hold and a double date, suggesting a sense of confusion or disorientation. The song seems to be about finding one's way through difficult times and holding onto memories of the past, even as one moves forward.
+
+#### Sadnecessary
+
+The song is about a person who is heartbroken and is looking at themselves in the mirror, wondering who is the happiest - the lover or the beloved. The lyrics talk about how the heart was shot like a bullet and how the person is being carried slow home, suggesting a sense of sadness and longing. The song also repeats the phrase "Sad necessity is what you promise me" and "Deep down the hollow is what you promise me," suggesting that the heartbreak is inevitable and that the person must follow their tears and their heartache.
+
+### Summer Wine
+
+The song is about a man who meets a woman and they share a magical drink called "summer wine" made from strawberries, cherries, and an angel's kiss. The man is enchanted by the woman and they spend the day together, with him losing his silver spurs and a small amount of money. The woman takes the spurs and leaves the man craving for more of the magical drink.
+
+### Universal Speaking
+
+The song is about the singer's infatuation with a woman named Silveretta, who is described as elegant and wild, with a delicate and dangerous smile. The singer is captivated by her beauty and longs to be with her, despite feeling nervous and unsure of himself around her. The lyrics are full of imagery and metaphor, with the singer comparing Silveretta to a stream of love that he cannot resist. The song's chorus repeats the phrase "Universally speaking," which suggests that the singer's feelings for Silveretta are universal and timeless. Overall, the lyrics of this song are romantic, passionate, and full of longing for the object of the singer's desire.
+
+### Let it snow
+
+This song is a romantic ballad about a couple spending a cozy night together by the fireplace, despite the cold and snowy weather outside. The lyrics express their contentment and happiness with each other, and the repetition of the phrase "Let it snow, let it snow, let it snow" emphasizes their desire to stay inside and enjoy each other's company.

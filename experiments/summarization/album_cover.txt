@@ -1,0 +1,23 @@
+## Test1
+
+Prompt: "Given this song:\n\n [song] \n\n Write an expressive promt for generating an album cover. Keep it short. \n\n"
+
+### Llama-2-7b
+
+#### Let it snow
+
+Create an album cover that captures the cozy and intimate atmosphere of the song. Think of warm fireplaces, soft lighting, and a couple snuggled up together. Use wintery colors and imagery to evoke a sense of snowy wonderland, while also highlighting the romantic and nostalgic tone of the song. The cover should be simple and elegant, with a focus on the couple and the fireplace, and should convey the feeling of being wrapped up in a warm and loving embrace on a cold winter's night.
+
+#### Summer Wine
+
+The cover art features a dreamy, ethereal landscape with a winding path leading through a lush, green forest. In the distance, a figure can be seen walking away, their back turned to the viewer. The figure is shrouded in a flowing white gown, with a crown of flowers on their head. The sun is setting in the background, casting a warm, golden light over the scene. The colors are muted and pastel, with a focus on soft blues, pinks, and greens. In the foreground, a small glass of wine sits on a pedestal, filled to the brim with a rich, red liquid. The label on the glass reads "Summer Wine" in elegant, cursive script. The overall mood of the cover is one of romance, mystery, and longing, evoking the feeling of a lazy summer afternoon spent sipping wine and lost in thought.
+
+#### Feeling For You
+
+The album cover features a dark blue and purple hue, with a silhouette of a person (presumably the artist) standing at the edge of a cliff, looking out into the distance. The sun is setting in the background, casting a warm orange glow over the landscape. The person's face is obscured by shadows, adding to the sense of mystery and introspection. In the foreground, there is a faint image of a moon, partially hidden by a branch or a cloud. The overall mood of the image is melancholic and contemplative, capturing the themes of longing and yearning that are present throughout the song.
+
+## Test2
+
+Prompt: "Given this song:\n\n [song] \n\n  \n\n"
+
+### Llama-2-7b
